@@ -1,1 +1,1 @@
-# Speed-Up-Windows-File-Explorer
+# Speed Up Windows File Explorer
